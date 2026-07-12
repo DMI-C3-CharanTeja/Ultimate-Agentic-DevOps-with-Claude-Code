@@ -1,0 +1,2 @@
+- [CloudFront PriceClass Optimization](cloudfront-price-class-optimization.md) — Portfolio site can save 30-50% CloudFront costs by downgrading from PriceClass_200 to PriceClass_100
+- [S3 Lifecycle Rules for State Backend](s3-lifecycle-for-terraform-state.md) — Terraform state bucket should have versioning cleanup rules to prevent cost accumulation

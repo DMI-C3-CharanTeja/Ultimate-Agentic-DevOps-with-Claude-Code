@@ -1,0 +1,2 @@
+- [Portfolio-site Terraform stack snapshot](project_portfolio_site_stack.md) — architecture + recurring gaps as of 2026-07-12 audit
+- [Severity calibration for static sites](feedback_severity_calibration.md) — how to scale severity when there's no PII/secrets/IAM
